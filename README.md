@@ -1,5 +1,5 @@
 # Command-Line-Othello
-A command-line-based Othello game that supports player vs player / player vs AI.
+A command-line-based Othello game that supports player vs player / player vs AI. This is originally the course project for ESTR1002.
 
 ## Prerequisites
 
